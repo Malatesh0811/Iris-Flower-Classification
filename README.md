@@ -31,12 +31,7 @@ The Iris dataset consists of:
 - Scikit-learn (Machine Learning Models)
 
 ## Model Training
-Several machine learning models were implemented and evaluated, including:
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
 - Support Vector Machine (SVM)
-- Decision Tree
-- Random Forest
 
 ## Installation
 To run the project, install the required dependencies:
